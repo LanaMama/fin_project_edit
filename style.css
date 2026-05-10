@@ -2288,17 +2288,3 @@
          padding: 12px 16px;
          font-size: 14px;
      }
-
-     /* ── Misc ────────────────────────────────── */
-     .subtitle {
-         font-size: 18px;
-     }
-
-     .portfolio-card__text {
-         font-size: 14px;
-     }
-
-     .pagination-line {
-         width: 130px;
-     }
- }
